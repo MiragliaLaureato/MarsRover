@@ -1,0 +1,17 @@
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\bin\Debug\net5.0\MarsRover.Reader.deps.json
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\bin\Debug\net5.0\MarsRover.Reader.dll
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\bin\Debug\net5.0\ref\MarsRover.Reader.dll
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\bin\Debug\net5.0\MarsRover.Reader.pdb
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\obj\Debug\net5.0\MarsRover.Reader.csproj.AssemblyReference.cache
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\obj\Debug\net5.0\MarsRover.Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\obj\Debug\net5.0\MarsRover.Reader.AssemblyInfoInputs.cache
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\obj\Debug\net5.0\MarsRover.Reader.AssemblyInfo.cs
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\obj\Debug\net5.0\MarsRover.Reader.csproj.CoreCompileInputs.cache
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\obj\Debug\net5.0\MarsRover.Reader.dll
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\obj\Debug\net5.0\ref\MarsRover.Reader.dll
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\obj\Debug\net5.0\MarsRover.Reader.pdb
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\bin\Debug\net5.0\MarsRover.Action.dll
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\bin\Debug\net5.0\MarsRover.Model.dll
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\bin\Debug\net5.0\MarsRover.Action.pdb
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\bin\Debug\net5.0\MarsRover.Model.pdb
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Reader\obj\Debug\net5.0\MarsRover.Reader.csproj.CopyComplete

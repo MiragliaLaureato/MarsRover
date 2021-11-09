@@ -1,0 +1,12 @@
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\bin\Debug\net5.0\MarsRover.Writer.deps.json
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\bin\Debug\net5.0\MarsRover.Writer.dll
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\bin\Debug\net5.0\ref\MarsRover.Writer.dll
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\bin\Debug\net5.0\MarsRover.Writer.pdb
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\obj\Debug\net5.0\MarsRover.Writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\obj\Debug\net5.0\MarsRover.Writer.AssemblyInfoInputs.cache
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\obj\Debug\net5.0\MarsRover.Writer.AssemblyInfo.cs
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\obj\Debug\net5.0\MarsRover.Writer.csproj.CoreCompileInputs.cache
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\obj\Debug\net5.0\MarsRover.Writer.dll
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\obj\Debug\net5.0\ref\MarsRover.Writer.dll
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\obj\Debug\net5.0\MarsRover.Writer.pdb
+C:\Users\mob12\source\repos\MarsRover\MarsRover.Writer\obj\Debug\net5.0\MarsRover.Writer.csproj.AssemblyReference.cache
